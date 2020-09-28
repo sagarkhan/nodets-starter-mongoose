@@ -185,6 +185,8 @@ Following are the coding standards that one must strictly follow while working o
 
 - Do not modify linter rules without consulting.
 
+- Do not install any library without consulting.
+
 - Follow 2 space indentation rule. Install `ext install EditorConfig.EditorConfig` VS Code plugin. The `.editorconfig` in project root dir will overwite default indentation settings of VS code to meet project standards.
 
 - Use ECMA Revision 6 Coding patterns.
