@@ -7,4 +7,7 @@ const Schema = new Mongoose.Schema({
 });
 
 const Model = Mongoose.model('example', Schema);
+
+Model.syncIndexes();
+
 export default Model;
