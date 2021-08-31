@@ -10,6 +10,9 @@ Get started developing
 # install dependencies
 npm install
 
+# initialize hooks
+npm run prepare
+
 # run in development mode
 npm run dev
 
