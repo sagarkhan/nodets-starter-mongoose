@@ -1,0 +1,11 @@
+dist
+node_modules
+.env
+.env.ref
+/.vscode
+/.secrets
+/secrets
+/astarte-v2-interfaces
+/public/uploads/*
+startup-prod.json
+.DS_Store
